@@ -222,7 +222,7 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2005,5 star,abu dhabi,217191,486414
 2005,4 star,abu dhabi,163437,310471
 2005,3 star ,abu dhabi,30038,38423
-2005,2 star,abu dhabi,-,-
+2005,2 star,abu dhabi,0,0
 2005,5 star,dubai,493275,1092153
 2005,4 star,dubai,165370,351049
 2005,3 star ,dubai,259988,522520
@@ -233,16 +233,16 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2005,2 star,sharjah,14371,18778
 2005,5 star, Ajman,1906,2134
 2005,4 star, Ajman,4364,12562
-2005,3 star , Ajman,-,-
+2005,3 star , Ajman,0,0
 2005,2 star, Ajman,7977,12580
 2005,5 star,  Ras Al Khaima and Fujeira ,51842,84582
 2005,4 star,  Ras Al Khaima and Fujeira ,20376,26905
 2005,3 star ,  Ras Al Khaima and Fujeira ,16021,29612
-2005,2 star,  Ras Al Khaima and Fujeira ,-,-
+2005,2 star,  Ras Al Khaima and Fujeira ,0,0
 2004,5 star,abu dhabi,212814,454212
 2004,4 star,abu dhabi,166802,306374
 2004,3 star ,abu dhabi,18941,25923
-2004,2 star,abu dhabi,-,-
+2004,2 star,abu dhabi,0,0
 2004,5 star,dubai,443114,1046428
 2004,4 star,dubai,131701,281738
 2004,3 star ,dubai,258502,522556
@@ -252,13 +252,13 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2004,3 star ,sharjah,16223,34800
 2004,2 star,sharjah,10840,13816
 2004,5 star, Ajman and Umm Al-Qiwain,2314,3386
-2004,4 star, Ajman and Umm Al-Qiwain,-,-
-2004,3 star , Ajman and Umm Al-Qiwain,-,-
+2004,4 star, Ajman and Umm Al-Qiwain,0,0
+2004,3 star , Ajman and Umm Al-Qiwain,0,0
 2004,2 star, Ajman and Umm Al-Qiwain,4205,8278
 2004,5 star,  Ras Al Khaima and Fujeira ,55751,93340
 2004,4 star,  Ras Al Khaima and Fujeira ,23971,33589
 2004,3 star ,  Ras Al Khaima and Fujeira ,13019,25272
-2004,2 star,  Ras Al Khaima and Fujeira ,-,-
+2004,2 star,  Ras Al Khaima and Fujeira ,0,0
 2003,5 star,abu dhabi,202393,435257
 2003,4 star,abu dhabi,159079,296402
 2003,3 star ,abu dhabi,18303,28744
@@ -602,7 +602,7 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2005,5 star,abu dhabi,55396,128401
 2005,4 star,abu dhabi,85223,205146
 2005,3 star ,abu dhabi,6800,10734
-2005,2 star,abu dhabi,-,-
+2005,2 star,abu dhabi,0,0
 2005,5 star,dubai,130500,271662
 2005,4 star,dubai,89222,203987
 2005,3 star ,dubai,140456,349496
@@ -613,16 +613,16 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2005,2 star,sharjah,1898,4488
 2005,5 star, Ajman,838,927
 2005,4 star, Ajman,604,2082
-2005,3 star , Ajman,-,-
+2005,3 star , Ajman,0,0
 2005,2 star, Ajman,8955,28157
 2005,5 star,  Ras Al Khaima and Fujeira ,2658,5758
 2005,4 star,  Ras Al Khaima and Fujeira ,5008,13123
 2005,3 star ,  Ras Al Khaima and Fujeira ,2037,4616
-2005,2 star,  Ras Al Khaima and Fujeira ,-,-
+2005,2 star,  Ras Al Khaima and Fujeira ,0,0
 2004,5 star,abu dhabi,54278,118200
 2004,4 star,abu dhabi,75005,225102
 2004,3 star ,abu dhabi,4247,8000
-2004,2 star,abu dhabi,-,-
+2004,2 star,abu dhabi,0,0
 2004,5 star,dubai,120034,264074
 2004,4 star,dubai,68693,172980
 2004,3 star ,dubai,153487,379576
@@ -632,13 +632,13 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2004,3 star ,sharjah,5198,19188
 2004,2 star,sharjah,1282,3672
 2004,5 star, Ajman and Umm Al-Qiwain,812,1546
-2004,4 star, Ajman and Umm Al-Qiwain,-,-
-2004,3 star , Ajman and Umm Al-Qiwain,-,-
+2004,4 star, Ajman and Umm Al-Qiwain,0,0
+2004,3 star , Ajman and Umm Al-Qiwain,0,0
 2004,2 star, Ajman and Umm Al-Qiwain,2417,17372
 2004,5 star,  Ras Al Khaima and Fujeira ,2396,4348
 2004,4 star,  Ras Al Khaima and Fujeira ,4275,10897
 2004,3 star ,  Ras Al Khaima and Fujeira ,1267,3318
-2004,2 star,  Ras Al Khaima and Fujeira ,-,-
+2004,2 star,  Ras Al Khaima and Fujeira ,0,0
 2003,5 star,abu dhabi,46480,110797
 2003,4 star,abu dhabi,64030,194804
 2003,3 star ,abu dhabi,2622,5302
@@ -982,7 +982,7 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2005,5 star,abu dhabi,62881,152771
 2005,4 star,abu dhabi,119193,301871
 2005,3 star ,abu dhabi,4950,8149
-2005,2 star,abu dhabi,-,-
+2005,2 star,abu dhabi,0,0
 2005,5 star,dubai,235850,516883
 2005,4 star,dubai,282081,590224
 2005,3 star ,dubai,542351,1384285
@@ -993,16 +993,16 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2005,2 star,sharjah,3924,23660
 2005,5 star, Ajman,1913,3214
 2005,4 star, Ajman,3447,7702
-2005,3 star , Ajman,-,-
+2005,3 star , Ajman,0,0
 2005,2 star, Ajman,7724,50809
 2005,5 star,  Ras Al Khaima and Fujeira ,11004,30181
 2005,4 star,  Ras Al Khaima and Fujeira ,11509,23327
 2005,3 star ,  Ras Al Khaima and Fujeira ,5663,12085
-2005,2 star,  Ras Al Khaima and Fujeira ,-,-
+2005,2 star,  Ras Al Khaima and Fujeira ,0,0
 2004,5 star,abu dhabi,63443,133629
 2004,4 star,abu dhabi,106364,305020
 2004,3 star ,abu dhabi,4047,7557
-2004,2 star,abu dhabi,-,-
+2004,2 star,abu dhabi,0,0
 2004,5 star,dubai,226538,511335
 2004,4 star,dubai,264552,587494
 2004,3 star ,dubai,553832,1432414
@@ -1012,13 +1012,13 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2004,3 star ,sharjah,6382,23353
 2004,2 star,sharjah,3692,20924
 2004,5 star, Ajman and Umm Al-Qiwain,1077,3235
-2004,4 star, Ajman and Umm Al-Qiwain,-,-
-2004,3 star , Ajman and Umm Al-Qiwain,-,-
+2004,4 star, Ajman and Umm Al-Qiwain,0,0
+2004,3 star , Ajman and Umm Al-Qiwain,0,0
 2004,2 star, Ajman and Umm Al-Qiwain,2143,27480
 2004,5 star,  Ras Al Khaima and Fujeira ,5268,17555
 2004,4 star,  Ras Al Khaima and Fujeira ,11066,22012
 2004,3 star ,  Ras Al Khaima and Fujeira ,4922,13345
-2004,2 star,  Ras Al Khaima and Fujeira ,-,-
+2004,2 star,  Ras Al Khaima and Fujeira ,0,0
 2003,5 star,abu dhabi,49936,109508
 2003,4 star,abu dhabi,91783,277146
 2003,3 star ,abu dhabi,2492,4460
@@ -1362,7 +1362,7 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2005,5 star,abu dhabi,146914,571400
 2005,4 star,abu dhabi,93089,322214
 2005,3 star ,abu dhabi,775,2133
-2005,2 star,abu dhabi,-,-
+2005,2 star,abu dhabi,0,0
 2005,5 star,dubai,943850,2930187
 2005,4 star,dubai,352305,939377
 2005,3 star ,dubai,391731,1291253
@@ -1373,16 +1373,16 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2005,2 star,sharjah,1714,7969
 2005,5 star, Ajman,37430,47178
 2005,4 star, Ajman,16427,46531
-2005,3 star , Ajman,-,-
+2005,3 star , Ajman,0,0
 2005,2 star, Ajman,4919,11483
 2005,5 star,  Ras Al Khaima and Fujeira ,132758,383822
 2005,4 star,  Ras Al Khaima and Fujeira ,14889,115540
 2005,3 star ,  Ras Al Khaima and Fujeira ,5218,12264
-2005,2 star,  Ras Al Khaima and Fujeira ,-,-
+2005,2 star,  Ras Al Khaima and Fujeira ,0,0
 2004,5 star,abu dhabi,116204,415648
 2004,4 star,abu dhabi,76359,310329
 2004,3 star ,abu dhabi,779,3992
-2004,2 star,abu dhabi,-,-
+2004,2 star,abu dhabi,0,0
 2004,5 star,dubai,880881,2748351
 2004,4 star,dubai,279749,868013
 2004,3 star ,dubai,358941,1195678
@@ -1392,13 +1392,13 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2004,3 star ,sharjah,15001,108274
 2004,2 star,sharjah,2538,15779
 2004,5 star, Ajman and Umm Al-Qiwain,10320,81559
-2004,4 star, Ajman and Umm Al-Qiwain,-,-
-2004,3 star , Ajman and Umm Al-Qiwain,-,-
+2004,4 star, Ajman and Umm Al-Qiwain,0,0
+2004,3 star , Ajman and Umm Al-Qiwain,0,0
 2004,2 star, Ajman and Umm Al-Qiwain,1036,5676
 2004,5 star,  Ras Al Khaima and Fujeira ,89069,289872
 2004,4 star,  Ras Al Khaima and Fujeira ,11991,84170
 2004,3 star ,  Ras Al Khaima and Fujeira ,4826,15290
-2004,2 star,  Ras Al Khaima and Fujeira ,-,-
+2004,2 star,  Ras Al Khaima and Fujeira ,0,0
 2003,5 star,abu dhabi,87313,244189
 2003,4 star,abu dhabi,65284,280786
 2003,3 star ,abu dhabi,579,1538
@@ -1742,7 +1742,7 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2005,5 star,abu dhabi,30888,116959
 2005,4 star,abu dhabi,30119,77440
 2005,3 star ,abu dhabi,211,426
-2005,2 star,abu dhabi,-,-
+2005,2 star,abu dhabi,0,0
 2005,5 star,dubai,146547,307233
 2005,4 star,dubai,79576,167213
 2005,3 star ,dubai,85067,153725
@@ -1753,16 +1753,16 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2005,2 star,sharjah,354,3362
 2005,5 star, Ajman,1399,1539
 2005,4 star, Ajman,207,1585
-2005,3 star , Ajman,-,-
+2005,3 star , Ajman,0,0
 2005,2 star, Ajman,794,2201
 2005,5 star,  Ras Al Khaima and Fujeira ,7436,27609
 2005,4 star,  Ras Al Khaima and Fujeira ,341,1386
 2005,3 star ,  Ras Al Khaima and Fujeira ,1009,1644
-2005,2 star,  Ras Al Khaima and Fujeira ,-,-
+2005,2 star,  Ras Al Khaima and Fujeira ,0,0
 2004,5 star,abu dhabi,26985,95591
 2004,4 star,abu dhabi,31041,77725
 2004,3 star ,abu dhabi,130,309
-2004,2 star,abu dhabi,-,-
+2004,2 star,abu dhabi,0,0
 2004,5 star,dubai,111923,250588
 2004,4 star,dubai,47296,109196
 2004,3 star ,dubai,47671,105485
@@ -1772,13 +1772,13 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2004,3 star ,sharjah,503,2130
 2004,2 star,sharjah,247,3969
 2004,5 star, Ajman and Umm Al-Qiwain,322,1039
-2004,4 star, Ajman and Umm Al-Qiwain,-,-
-2004,3 star , Ajman and Umm Al-Qiwain,-,-
+2004,4 star, Ajman and Umm Al-Qiwain,0,0
+2004,3 star , Ajman and Umm Al-Qiwain,0,0
 2004,2 star, Ajman and Umm Al-Qiwain,85,626
 2004,5 star,  Ras Al Khaima and Fujeira ,8474,26321
 2004,4 star,  Ras Al Khaima and Fujeira ,219,815
 2004,3 star ,  Ras Al Khaima and Fujeira ,1373,2446
-2004,2 star,  Ras Al Khaima and Fujeira ,-,-
+2004,2 star,  Ras Al Khaima and Fujeira ,0,0
 2003,5 star,abu dhabi,23139,62619
 2003,4 star,abu dhabi,17570,66540
 2003,3 star ,abu dhabi,72,382
@@ -2122,7 +2122,7 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2005,5 star,abu dhabi,3884,11045
 2005,4 star,abu dhabi,1848,7390
 2005,3 star ,abu dhabi,5,8
-2005,2 star,abu dhabi,-,-
+2005,2 star,abu dhabi,0,0
 2005,5 star,dubai,46583,101013
 2005,4 star,dubai,38484,80146
 2005,3 star ,dubai,43979,83810
@@ -2133,16 +2133,16 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2005,2 star,sharjah,11,112
 2005,5 star, Ajman,333,348
 2005,4 star, Ajman,12,12
-2005,3 star , Ajman,-,-
+2005,3 star , Ajman,0,0
 2005,2 star, Ajman,0,754
 2005,5 star,  Ras Al Khaima and Fujeira ,935,1552
 2005,4 star,  Ras Al Khaima and Fujeira ,163,1009
 2005,3 star ,  Ras Al Khaima and Fujeira ,202,426
-2005,2 star,  Ras Al Khaima and Fujeira ,-,-
+2005,2 star,  Ras Al Khaima and Fujeira ,0,0
 2004,5 star,abu dhabi,1106,5245
 2004,4 star,abu dhabi,1009,5085
 2004,3 star ,abu dhabi,8,18
-2004,2 star,abu dhabi,-,-
+2004,2 star,abu dhabi,0,0
 2004,5 star,dubai,32871,74091
 2004,4 star,dubai,29900,64410
 2004,3 star ,dubai,30698,53317
@@ -2152,13 +2152,13 @@ year,Hotel's Class_en,emirate_en,Guests,Nights
 2004,3 star ,sharjah,69,278
 2004,2 star,sharjah,4,22
 2004,5 star, Ajman and Umm Al-Qiwain,15,114
-2004,4 star, Ajman and Umm Al-Qiwain,-,-
-2004,3 star , Ajman and Umm Al-Qiwain,-,-
-2004,2 star, Ajman and Umm Al-Qiwain,-,-
+2004,4 star, Ajman and Umm Al-Qiwain,0,0
+2004,3 star , Ajman and Umm Al-Qiwain,0,0
+2004,2 star, Ajman and Umm Al-Qiwain,0,0
 2004,5 star,  Ras Al Khaima and Fujeira ,1710,3785
 2004,4 star,  Ras Al Khaima and Fujeira ,190,1019
 2004,3 star ,  Ras Al Khaima and Fujeira ,49,92
-2004,2 star,  Ras Al Khaima and Fujeira ,-,-
+2004,2 star,  Ras Al Khaima and Fujeira ,0,0
 2003,5 star,abu dhabi,1580,4977
 2003,4 star,abu dhabi,1182,6896
 2003,3 star ,abu dhabi,19,61
